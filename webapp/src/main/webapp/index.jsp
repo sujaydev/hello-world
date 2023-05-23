@@ -1,6 +1,6 @@
 <main>
   <div class="intro">
-    <h1>A Web DevOpsEnginer</h1>
+    <h1>A DevOps Engineer</h1>
     <p>I am a web developer and I love to create websites.</p>
     <button>Learn More</button>
   </div>
